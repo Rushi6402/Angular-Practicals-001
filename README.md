@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular and React Practicals
 
 This repository contains the 14 practical programs for the Angular and React practical course.
@@ -30,3 +31,6 @@ This repository contains the 14 practical programs for the Angular and React pra
 > Replace the student details above before submitting.
 >
 > The Angular `.ts` files are component-level practical implementations. For routing practicals, add the corresponding routes in the Angular application's routing configuration.
+=======
+# Angular-Practicals-001
+>>>>>>> 21faf0bc20a75e1273689ef720282bb0ae3f3c11
