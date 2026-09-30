@@ -16,17 +16,4 @@ This repository contains the 14 practical programs for the Angular and React pra
 9. Route Parameters
 
 
-## Student Details
 
-- **Student Name:** Rushikesh Patil
-- **Roll Number:** YOUR ROLL NUMBER
-- **Class/Division:** YOUR CLASS/DIVISION
-- **Course/Subject:** Angular and React Practicals
-- **GitHub Username:** YOUR GITHUB USERNAME
-
-> Replace the student details above before submitting.
->
-> The Angular `.ts` files are component-level practical implementations. For routing practicals, add the corresponding routes in the Angular application's routing configuration.
-=======
-# Angular-Practicals-001
->>>>>>> 21faf0bc20a75e1273689ef720282bb0ae3f3c11
