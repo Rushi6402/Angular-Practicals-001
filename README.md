@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Angular and React Practicals
 
 This repository contains the 14 practical programs for the Angular and React practical course.
@@ -14,15 +14,11 @@ This repository contains the 14 practical programs for the Angular and React pra
 7. Two-Way Data Binding
 8. Simple Routing Demo
 9. Route Parameters
-10. Hello World React Application
-11. React Counter App
-12. React To-Do List
-13. React Calculator
-14. React Digital Clock
+
 
 ## Student Details
 
-- **Student Name:** YOUR NAME
+- **Student Name:** Rushikesh Patil
 - **Roll Number:** YOUR ROLL NUMBER
 - **Class/Division:** YOUR CLASS/DIVISION
 - **Course/Subject:** Angular and React Practicals
